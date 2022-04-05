@@ -1,7 +1,8 @@
 <?php
-include ("header.php")
+include ("./templates/header.php")
 ?>
 
+
 <?php
-include ("footer.php")
+include ("./templates/footer.php")
 ?>
